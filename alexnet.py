@@ -1,6 +1,6 @@
 import numpy as np
 import tensorflow as tf
-
+## TEst
 net_data = np.load("bvlc-alexnet.npy", encoding="latin1").item()
 
 
